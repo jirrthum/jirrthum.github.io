@@ -26,6 +26,10 @@ li {
     width: 33%;
 }
 
+a {
+    color: #00274C;
+}
+
 h1 {
     text-align: center;
     font-family: cursive;
