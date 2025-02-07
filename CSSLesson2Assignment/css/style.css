@@ -1,7 +1,6 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-/*    background-color: #00274C; */
-background-color: darkgreen;
+    background-color: darkgreen;
 }
 
 header {
@@ -13,12 +12,12 @@ nav {
 }
 
 main {
-    background-color: #FFCB05;;
+    background-color: #FFCB05;
     font-size: 150%;
 }
 
 footer {
-    background-color:#FFCB05;
+    background-color: #FFCB05;
 }
 
 li {
