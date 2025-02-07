@@ -37,5 +37,6 @@ h1 {
 }
 
 p {
-    line-height: 120%;
+    line-height: 80%;
+    padding: 6px;
 }
