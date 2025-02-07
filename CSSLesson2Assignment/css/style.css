@@ -18,6 +18,8 @@ main {
 
 footer {
     background-color: #FFCB05;
+    padding: 6px;
+    font-size: 80%;
 }
 
 li {
@@ -37,6 +39,5 @@ h1 {
 }
 
 p {
-    line-height: 80%;
-    padding: 6px;
+    line-height: 120%;
 }
