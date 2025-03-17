@@ -105,11 +105,11 @@ main img {
     transition-delay:4s;
 }
 
-.performers p {
+.performers h2 {
     padding: 10px;
 }
 
-.performers p:hover {
+.performers h2:hover {
     size: xx-large;
     color: cornflowerblue;
     width: 400;
