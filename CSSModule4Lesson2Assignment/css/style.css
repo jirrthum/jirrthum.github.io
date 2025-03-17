@@ -107,6 +107,7 @@ main img {
 
 .performers h2 {
     padding: 10px;
+    size: large;
 }
 
 .performers h2:hover {
