@@ -59,6 +59,12 @@ header ul a {
     font-weight: bold;
 }
 
+h2 {
+    padding: 10px;
+    font-size: 24px;
+    font-weight: lighter;
+}
+
 /* skip to main content */
 .skip2main {
     position: absolute;
@@ -99,19 +105,14 @@ main img {
 .performers {
     font-size: xx-large;;
     font-family: cursive;
+    list-style-type: none;
     transition-property: size, width, background;
     transition-duration: .5s;
     transition-timing-function: liner;
     transition-delay:4s;
 }
 
-.performers h2 {
-    padding: 10px;
-    font-size: 24px;
-    font-weight: lighter;
-}
-
-.performers h2:hover {
+.performers li:hover {
     size: xx-large;
     color: cornflowerblue;
     width: 400;
@@ -124,6 +125,8 @@ main img {
     border: 3px solid cornflowerblue;
     border-radius: 50%;
     padding: 10px;
+    max-width: 100%;
+    height: auto;
 }
 
 /* instruments */
