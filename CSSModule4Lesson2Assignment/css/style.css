@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color:cornflowerblue
+    background-color:#309AD6
 }
 
 .headercontainer {
@@ -164,55 +164,3 @@ footer {
 
 
 
-/*
-
-header img {
-    width: 10%;
-    position: relative;
-    top: 20px;
-}
-
-main {
-    background-color: #FFCB05;
-    font-size: 150%;
-}
-
-footer {
-    background-color: #FFCB05;
-    padding: 6px;
-    font-size: 80%;
-}
-
-
-
-
-
-
-h1 {
-    text-align: center;
-    font-family: cursive;
-    color: #00274C;
-}
-
-p {
-    line-height: 120%;
-}
-
-.grid {
-    display:grid;
-    grid-template-columns: 40% 40%;
-    justify-content: center;
-    justify-items: center;
-    align-items: baseline;
-    column-gap: 10px;
-    row-gap: 10px;
-    padding-top: 10px;
-    width: 100%;
-}
-
-
-
-.grid img {
-    width: 100%;
-}
-*/
